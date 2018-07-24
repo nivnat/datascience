@@ -1,6 +1,6 @@
 # Tech Mahindra - Data Science Internship 
 
-Our client is a large multinational public sector bank, and I worked as a Data Analyst intern to conduct analysis on their internet banking login data. I chose a test data set of all login attempts during the last 6 months and applied the following machine learning algorithms (in python):
+Wroked for a large multinational public sector bank client, as a Data Analyst intern to analyze their internet banking login data. I chose a test data set of all login attempts during the last 6 months and applied the following machine learning algorithms (in python):
 
 1) Linear regression - univariate cost function analysis
 2) Decision Tree
@@ -14,6 +14,7 @@ The most important features used to work with different algorithms were :
 
 LINEAR REGRESSION:
 
+![Alt text](C:\Users\nn0c76623\Documents\regression\graph_linear_regression.PNG?raw=true "Title")
 DECISION TREE
 
 RANDOM FOREST
