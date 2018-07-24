@@ -14,7 +14,7 @@ The most important features used to work with different algorithms were :
 
 LINEAR REGRESSION:
 
-![Alt text](C:\Users\nn0c76623\Documents\regression\graph_linear_regression.PNG?raw=true "Title")
+![Alt text](datascience/graph_linear_regression.png?raw=true "Optional Title")
 DECISION TREE
 
 RANDOM FOREST
