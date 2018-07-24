@@ -14,10 +14,11 @@ The most important features used to work with different algorithms were :
 
 LINEAR REGRESSION:
 
-![alternativetext](datascience/graph_linear_regression.PNG?raw=true "Optional Title")
+To find if the variables had any correlation to number of login attempts. There were certain outliers so age as an additional feature was chosen to check if that makes a difference in prediction.
 
 DECISION TREE
 
+Decided that Age and gender as features would be a better way to predict failures, but realized that Gender wasn't captured during the production stage, so abandoned decision tree
 RANDOM FOREST
 
 K-MEANS CLUSTERING
